@@ -34,7 +34,3 @@ This project automates sentiment analysis to help identify:
 - Jupyter Notebook
 - AI / NLP (LLM-based sentiment analysis)
 - Matplotlib / Seaborn
-
----
-
-## 📁 Project Structure
